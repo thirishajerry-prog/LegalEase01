@@ -1,0 +1,6 @@
+{
+  "name": "LegalEase — AI Legal Assistant & Document Analysis",
+  "description": "Accessible, plain-language legal intelligence platform for understanding rights, analyzing contracts, navigating court procedures, and drafting verified documents across jurisdictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
